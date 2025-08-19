@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|c:\\users\\gabri\\desktop\\projeto-investtrack\\backend\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|c:\\users\\gabri\\desktop\\projeto-investtrack\\backend\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|c:\\users\\gabri\\desktop\\projeto-investtrack\\backend\\application\\dtos\\user\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|solutionrelative:application\\dtos\\user\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|c:\\users\\gabri\\desktop\\projeto-investtrack\\backend\\shared\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|solutionrelative:shared\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|c:\\users\\gabri\\desktop\\projeto-investtrack\\backend\\application\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|solutionrelative:application\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|c:\\users\\gabri\\desktop\\projeto-investtrack\\backend\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DDD204-A9C2-4CB8-BE47-52989C627018}|backend.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Shared\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Shared\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Shared\\MappingProfile.cs",
+              "RelativeToolTip": "Shared\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:58:55.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Application\\DTOs\\User\\LoginUserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User\\LoginUserDTO.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Application\\DTOs\\User\\LoginUserDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\User\\LoginUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:57:41.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Application\\DTOs\\User\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Application\\DTOs\\User\\CreateUserDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\User\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:57:27.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:56:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:38:28.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projeto-InvestTrack\\backend\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:37:00.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
