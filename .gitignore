@@ -1,0 +1,44 @@
+# Build e pastas bin/obj
+bin/
+obj/
+out/
+
+# Pacotes NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Arquivos de log
+*.log
+
+# Configurações do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configurações de publish
+*.publish.xml
+*.pubxml
+*.pubxml.user
+
+# Cache do Rider
+.idea/
+
+# Configurações do JetBrains Rider
+*.sln.iml
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Diretórios de teste local
+TestResults/
+*.TestResults/
+*.coverage
+*.coveragexml
+
+# Arquivos de configuração sensíveis (ex.: senhas, connection strings)
+appsettings.Local.json
+appsettings.Development.json
